@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+
+/* Default Styles 
+--------------------------------------------------------------------*/
+* { 
+	webkit-box-sizing: border-box;
+	moz-box-sizing: border-box;
+	ms-box-sizing:border-box;
+	box-sizing:border-box;
+}
+body { color: red; }
